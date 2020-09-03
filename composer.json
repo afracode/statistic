@@ -1,0 +1,30 @@
+{
+    "name": "afracode/statistic",
+    "type": "library",
+    "description": "A package for tracking and recording user visits across your Laravel application",
+    "keywords": [
+        "afracode",
+        "statistic",
+        "statistics",
+        "tracking",
+        "visitor",
+        "logging"
+    ],
+    "homepage": "https://github.com/afracode/statistic",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ali Sharifi Neyestani",
+            "email": "ali@afracode.com"
+        },
+        {
+            "name": "Kourosh Sharifi Neyestani",
+            "email": "kourosh@afracode.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Afracode\\Statistic\\": "src"
+        }
+    }
+}
